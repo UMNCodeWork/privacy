@@ -23,4 +23,6 @@ Version of privacy has a lot to do with what we consider citizen, citizenship, a
 
 Agency with technology
 
-Al-Jazeera's [Terms of Service] comic (http://projects.aljazeera.com/2014/terms-of-service/)
+Al-Jazeera's [Terms of Service](http://projects.aljazeera.com/2014/terms-of-service/) comic
+
+What does it *feel* like to feel private?
