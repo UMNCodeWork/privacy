@@ -18,3 +18,9 @@ Robert C. Post, "The Social Foundations of Privacy: Community and Self in the Co
 Terry Gross' policy to allow guests to re-edit themselves, except if they are political figures
 
 Privacy for the weak and transparency for the powerful (Assange)
+
+Version of privacy has a lot to do with what we consider citizen, citizenship, and citizenry
+
+Agency with technology
+
+Al-Jazeera's [Terms of Service] comic ("http://projects.aljazeera.com/2014/terms-of-service/") 
