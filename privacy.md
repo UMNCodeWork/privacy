@@ -26,3 +26,9 @@ Agency with technology
 Al-Jazeera's [Terms of Service](http://projects.aljazeera.com/2014/terms-of-service/) comic
 
 What does it *feel* like to feel private?
+- crafting a self-narrative that you have control of
+- that feels invasive
+
+Is privacy a natural or an invented phenomenon?
+
+Ability to have private thoughts and explore them without interruption
