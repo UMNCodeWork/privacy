@@ -1,5 +1,4 @@
-Privacy
--------
+# Privacy
 
 Cryptoparty - May 9th, 2015 - TC Makerspace
 
@@ -19,11 +18,7 @@ Article 12. No one shall be subjected to arbitrary interference with his privacy
 
 
 
-"Everyone knows there is no privacy, but everyone still hopes for privacy" - Why the hope?  It must be important to humans in some way--but also highly contextual.
-
-
-What is privacy? - our group's brainstorm
-================
+## What is privacy? - our group's brainstorm
 * Having control over what part of my life that I want others to know
 * ... without raising suspicion that I'm doing something wrong or illicit
 * The idea that I can know who the recipient of my information is (journalitic perspective)
@@ -32,6 +27,7 @@ What is privacy? - our group's brainstorm
 * Ability to "write your own story"
 * Ability to not feel "invaded" - a gut feeling
 * The right to act in the world without having to say what your name is
+* "Everyone knows there is no privacy, but everyone still hopes for privacy" - Why the hope?  It must be important to humans in some way--but also highly contextual.
 
 
 GitHub has an assumption of openness (which is free); if you want privacy, it's *paid*
@@ -56,7 +52,7 @@ Does anyone communicate via a means where they feel they have a reasonable expec
 * privacy in obscurity...but for how long until search optimization improves?
 
 
-AWESOME THINGS TO READ
-======================
-* Social Foundations of Privacy: ... (from Bill)
+## AWESOME THINGS TO READ
+
+* Social Foundations of Privacy (Bill's senior thesis)
 * Alison Macrina & Library Freedom Project, http://www.knightfoundation.org/grants/201450256/
